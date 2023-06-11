@@ -1,4 +1,4 @@
-# Exp-1 Exp-2 SQL query to fetch the no_of_works for each department in descending order From the sample data.
+# Exp-2 SQL query to fetch the no_of_works for each department in descending order From the sample data.
 ## AIM:
 To write a sql query to fetch the no_of_works for each department in descending order From the sample data.
 ## PROCEDURE:
